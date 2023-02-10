@@ -1,4 +1,4 @@
-# Python testing file
+# Python testing
 
 def tester():
     pass
